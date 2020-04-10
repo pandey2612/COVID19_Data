@@ -1,0 +1,213 @@
+,updated,country,cases,todayCases,deaths,todayDeaths,recovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,flag,long,lat,iso3,iso2,_id
+10,1586497801704,USA,468895,329,16697,6,25928,426270,10011,1417,50,2376977,7181,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/us.png,-97.0,38.0,USA,US,840.0
+30,1586497801704,Spain,153222,0,15447,0,52165,85610,7371,3277,330,355000,7593,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/es.png,-4.0,40.0,ESP,ES,724.0
+112,1586497801705,Italy,143626,0,18279,0,28470,96877,3605,2375,302,853369,14114,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/it.png,12.8333,42.8333,ITA,IT,380.0
+136,1586497801705,Germany,118235,0,2607,0,52407,63221,4895,1411,31,1317887,15730,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/de.png,9.0,51.0,DEU,DE,276.0
+142,1586497801705,France,117749,0,12210,0,23206,82333,7066,1804,187,333807,5114,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/fr.png,2.0,46.0,FRA,FR,250.0
+169,1586497801748,China,81907,42,3336,1,77455,1116,144,57,2,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cn.png,105.0,35.0,CHN,CN,156.0
+117,1586497801705,Iran,66220,0,4110,0,32309,29801,3918,788,49,231393,2755,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ir.png,53.0,32.0,IRN,IR,364.0
+11,1586497801705,UK,65077,0,7978,0,135,56964,1559,959,118,298169,4392,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gb.png,-2.0,54.0,GBR,GB,826.0
+14,1586497801705,Turkey,42282,0,908,0,2142,39232,1552,501,11,276338,3277,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tr.png,35.0,39.0,TUR,TR,792.0
+193,1586497801711,Belgium,24983,0,2523,0,5164,17296,1285,2156,218,84248,7269,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/be.png,4.0,50.8333,BEL,BE,56.0
+23,1586497801711,Switzerland,24051,0,948,0,10600,12503,386,2779,110,178500,20625,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ch.png,8.0,47.0,CHE,CH,756.0
+72,1586497801711,Netherlands,21762,0,2396,0,250,19116,1424,1270,140,101534,5926,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/nl.png,5.75,52.5,NLD,NL,528.0
+176,1586497801711,Canada,20765,0,509,0,5311,14945,518,550,13,370315,9812,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ca.png,-95.0,60.0,CAN,CA,124.0
+185,1586497801711,Brazil,18176,31,957,3,173,17046,296,86,5,62985,296,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/br.png,-55.0,-10.0,BRA,BR,76.0
+56,1586497801712,Portugal,13956,0,409,0,205,13342,241,1369,40,140368,13766,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pt.png,-8.0,39.5,PRT,PT,620.0
+200,1586497801712,Austria,13244,0,295,0,5240,7709,266,1471,33,126287,14022,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/at.png,13.3333,47.3333,AUT,AT,40.0
+50,1586497801712,S. Korea,10450,27,208,4,7117,3125,55,204,4,503051,9812,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/kr.png,127.5,37.0,KOR,KR,410.0
+53,1586497801712,Russia,10131,0,76,0,698,9357,8,69,0,1004719,6885,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ru.png,100.0,60.0,RUS,RU,643.0
+113,1586497801712,Israel,9968,0,86,0,1011,8871,166,1152,10,117339,13557,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/il.png,34.75,31.5,ISR,IL,376.0
+24,1586497801712,Sweden,9141,0,793,0,205,8143,719,905,79,54700,5416,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/se.png,15.0,62.0,SWE,SE,752.0
+119,1586497801713,India,6771,46,228,1,635,5908,0,5,0,177584,129,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/in.png,77.0,20.0,IND,IN,356.0
+115,1586497801713,Ireland,6574,0,263,0,25,6286,165,1331,53,53000,10734,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ie.png,-8.0,53.0,IRL,IE,372.0
+66,1586497801713,Norway,6219,0,108,0,32,6079,78,1147,20,121034,22326,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/no.png,10.0,62.0,NOR,NO,578.0
+201,1586497801713,Australia,6152,0,53,2,2987,3112,81,241,2,330134,12946,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/au.png,133.0,-27.0,AUS,AU,36.0
+170,1586497801713,Chile,5972,0,57,0,1274,4641,360,312,3,68353,3576,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cl.png,-71.0,-30.0,CHL,CL,152.0
+158,1586497801713,Denmark,5635,0,237,0,1736,3662,120,973,41,64002,11050,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/dk.png,10.0,56.0,DNK,DK,208.0
+57,1586497801714,Poland,5575,0,174,0,284,5117,160,147,5,107597,2843,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pl.png,20.0,52.0,POL,PL,616.0
+161,1586497801714,Czechia,5569,0,112,0,301,5156,96,520,10,106845,9977,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cz.png,15.5,49.75,CZE,CZ,203.0
+110,1586497801714,Japan,5530,183,99,0,685,4746,109,44,0,64387,509,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/jp.png,138.0,36.0,JPN,JP,392.0
+59,1586497801714,Peru,5256,0,138,0,1438,3680,124,159,4,48465,1470,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pe.png,-76.0,-10.0,PER,PE,604.0
+54,1586497801714,Romania,5202,0,248,0,647,4307,178,270,13,51802,2693,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ro.png,25.0,46.0,ROU,RO,642.0
+153,1586497801714,Ecuador,4965,0,272,0,339,4354,139,281,15,19102,1083,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ec.png,-77.5,-2.0,ECU,EC,218.0
+64,1586497801715,Pakistan,4601,112,66,1,727,3808,45,21,0,54706,248,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pk.png,70.0,30.0,PAK,PK,586.0
+91,1586497801715,Malaysia,4228,0,67,0,1608,2553,72,131,2,69675,2153,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/my.png,112.5,2.5,MYS,MY,458.0
+58,1586497801715,Philippines,4076,0,203,0,124,3749,1,37,2,24500,224,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ph.png,122.0,13.0,PHL,PH,608.0
+83,1586497801715,Mexico,3441,260,194,20,633,2614,89,27,2,31492,244,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mx.png,-102.0,23.0,MEX,MX,484.0
+118,1586497801715,Indonesia,3293,0,280,0,252,2761,0,12,1,17679,65,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/id.png,120.0,-5.0,IDN,ID,360.0
+42,1586497801715,Saudi Arabia,3287,0,44,0,666,2577,41,94,1,115585,3320,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sa.png,45.0,25.0,SAU,SA,682.0
+97,1586497801716,Luxembourg,3115,0,52,0,500,2563,30,4976,83,27521,43965,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lu.png,6.1667,49.75,LUX,LU,442.0
+12,1586497801717,UAE,2990,0,14,0,268,2708,1,302,1,593095,59967,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ae.png,54.0,24.0,ARE,AE,784.0
+40,1586497801717,Serbia,2867,0,66,0,118,2683,127,328,8,12347,1413,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/rs.png,21.0,44.0,SRB,RS,688.0
+62,1586497801718,Panama,2752,0,66,0,16,2670,107,638,15,11776,2729,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pa.png,-80.0,9.0,PAN,PA,591.0
+143,1586497801718,Finland,2605,0,42,0,300,2263,82,470,8,39000,7039,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/fi.png,26.0,64.0,FIN,FI,246.0
+19,1586497801718,Thailand,2473,50,33,1,1013,1427,61,35,0,71860,1030,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/th.png,100.0,15.0,THA,TH,764.0
+55,1586497801718,Qatar,2376,0,6,0,206,2164,37,825,2,43144,14975,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/qa.png,51.25,25.5,QAT,QA,634.0
+154,1586497801718,Dominican Republic,2349,0,118,0,80,2151,147,217,11,7151,659,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/do.png,-70.6667,19.0,DOM,DO,214.0
+168,1586497801718,Colombia,2223,0,69,0,174,1980,85,44,1,34910,686,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/co.png,-72.0,4.0,COL,CO,170.0
+133,1586497801718,Greece,1955,0,87,0,269,1599,79,188,8,33634,3227,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gr.png,22.0,39.0,GRC,GR,300.0
+32,1586497801719,South Africa,1934,0,18,0,95,1821,7,33,0,68874,1161,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/za.png,24.0,-29.0,ZAF,ZA,710.0
+37,1586497801719,Singapore,1910,0,6,0,460,1444,29,326,1,65000,11110,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sg.png,103.8,1.3667,SGP,SG,702.0
+204,1586497801719,Argentina,1894,0,79,0,365,1450,96,42,2,14850,329,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ar.png,-64.0,-34.0,ARG,AR,32.0
+8,1586497801719,Ukraine,1892,0,57,0,45,1790,33,43,1,20608,471,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ua.png,32.0,49.0,UKR,UA,804.0
+152,1586497801719,Egypt,1699,0,118,0,348,1233,0,17,1,25000,244,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/eg.png,30.0,27.0,EGY,EG,818.0
+209,1586497801719,Algeria,1666,0,235,0,347,1084,46,38,5,3359,77,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/dz.png,3.0,28.0,DZA,DZ,12.0
+120,1586497801720,Iceland,1648,0,6,0,688,954,11,4829,18,32663,95718,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/is.png,-18.0,65.0,ISL,IS,352.0
+194,1586497801720,Belarus,1486,0,16,0,139,1331,55,157,2,49000,5186,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/by.png,28.0,53.0,BLR,BY,112.0
+165,1586497801720,Croatia,1407,0,20,0,219,1168,34,343,5,13680,3332,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/hr.png,15.5,45.1667,HRV,HR,191.0
+77,1586497801720,Morocco,1374,0,97,0,109,1168,1,37,3,6116,166,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ma.png,-5.0,32.0,MAR,MA,504.0
+82,1586497801720,Moldova,1289,0,29,0,50,1210,80,320,7,5108,1266,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/md.png,29.0,47.0,MDA,MD,498.0
+70,1586497801720,New Zealand,1283,44,2,1,373,908,5,266,0,55685,11548,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/nz.png,174.0,-41.0,NZL,NZ,554.0
+116,1586497801720,Iraq,1232,0,69,0,496,667,0,31,2,30466,757,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/iq.png,44.0,33.0,IRQ,IQ,368.0
+148,1586497801721,Estonia,1207,0,24,0,83,1100,9,910,18,26416,19914,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ee.png,26.0,59.0,EST,EE,233.0
+121,1586497801721,Hungary,1190,210,77,11,112,1001,17,123,8,27826,2880,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/hu.png,20.0,47.0,HUN,HU,348.0
+34,1586497801721,Slovenia,1124,0,43,0,128,953,34,541,21,31813,15303,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/si.png,15.0,46.0,SVN,SI,705.0
+98,1586497801721,Lithuania,999,44,16,0,8,975,21,367,6,36051,13243,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lt.png,24.0,56.0,LTU,LT,440.0
+122,1586497801721,Hong Kong,974,0,4,0,293,677,14,130,0,96709,12900,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/hk.png,114.1667,22.25,HKG,HK,344.0
+199,1586497801722,Azerbaijan,926,0,9,0,101,816,27,91,0,57371,5658,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/az.png,47.5,40.5,AZE,AZ,31.0
+203,1586497801722,Armenia,921,0,10,0,138,773,30,311,3,5823,1965,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/am.png,45.0,40.0,ARM,AM,51.0
+106,1586497801722,Kuwait,910,0,1,0,111,798,22,213,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/kw.png,47.6581,29.3375,KWT,KW,414.0
+197,1586497801722,Bahrain,887,0,5,0,519,363,3,521,3,55096,32379,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bh.png,50.55,26.0,BHR,BH,48.0
+187,1586497801722,Bosnia,858,0,35,0,101,722,4,262,11,6911,2106,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ba.png,18.0,44.0,BIH,BA,70.0
+177,1586497801722,Cameroon,803,0,12,0,61,730,0,30,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cm.png,12.0,6.0,CMR,CM,120.0
+108,1586497801722,Kazakhstan,802,21,9,1,60,733,21,43,0,61955,3300,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/kz.png,68.0,48.0,KAZ,KZ,398.0
+157,1586497801722,Diamond Princess,712,0,11,0,619,82,10,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/unknow.png,0.0,0.0,,,
+35,1586497801723,Slovakia,701,0,2,0,23,676,5,128,0,21371,3914,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sk.png,19.5,48.6667,SVK,SK,703.0
+94,1586497801723,Macedonia,663,0,30,0,37,596,15,318,14,6571,3154,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mk.png,22.0,41.8333,MKD,MK,807.0
+15,1586497801723,Tunisia,643,0,25,0,25,593,78,54,2,9570,810,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tn.png,9.0,34.0,TUN,TN,788.0
+182,1586497801723,Bulgaria,624,6,24,0,54,546,33,90,3,18502,2663,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bg.png,25.0,43.0,BGR,BG,100.0
+6,1586497801723,Uzbekistan,624,42,3,0,38,583,8,19,0,70000,2091,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/uz.png,64.0,41.0,UZB,UZ,860.0
+103,1586497801724,Latvia,589,0,3,0,16,570,3,312,2,25458,13497,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lv.png,25.0,57.0,LVA,LV,428.0
+208,1586497801724,Andorra,583,0,25,0,58,500,17,7545,324,1673,21653,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ad.png,1.6,42.5,AND,AD,20.0
+102,1586497801724,Lebanon,582,0,19,0,67,496,29,85,3,12524,1835,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lb.png,35.8333,33.8333,LBN,LB,422.0
+162,1586497801724,Cyprus,564,0,10,0,53,501,13,467,8,14273,11822,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cy.png,33.0,35.0,CYP,CY,196.0
+166,1586497801724,Costa Rica,539,0,3,0,30,506,13,106,0,6298,1236,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cr.png,-84.0,10.0,CRI,CR,188.0
+164,1586497801724,Cuba,515,0,15,0,28,472,15,45,1,9410,831,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cu.png,-80.0,21.5,CUB,CU,192.0
+211,1586497801724,Afghanistan,484,0,15,0,32,437,0,12,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/af.png,65.0,33.0,AFG,AF,4.0
+7,1586497801725,Uruguay,473,17,7,0,206,260,13,136,2,6856,1974,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/uy.png,-56.0,-33.0,URY,UY,858.0
+65,1586497801725,Oman,457,0,3,0,109,345,3,89,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/om.png,57.0,21.0,OMN,OM,512.0
+160,1586497801725,Côte d'Ivoire,444,0,3,0,52,389,0,17,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ci.png,-5.0,8.0,CIV,CI,384.0
+181,1586497801725,Burkina Faso,443,0,24,0,146,273,0,21,1,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bf.png,-2.0,13.0,BFA,BF,854.0
+68,1586497801725,Niger,410,0,11,0,40,359,0,17,0,4251,176,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ne.png,8.0,16.0,NER,NE,562.0
+210,1586497801725,Albania,409,0,23,0,165,221,7,142,8,3223,1120,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/al.png,20.0,41.0,ALB,AL,8.0
+123,1586497801725,Honduras,382,39,23,0,7,352,10,39,2,1600,162,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/hn.png,-86.5,15.0,HND,HN,340.0
+21,1586497801726,Taiwan,380,0,5,0,80,295,0,16,0,42315,1777,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tw.png,121.0,23.5,TWN,TW,158.0
+135,1586497801726,Ghana,378,0,6,0,3,369,2,12,0,12046,388,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gh.png,-2.0,8.0,GHA,GH,288.0
+109,1586497801726,Jordan,372,0,7,0,161,204,5,36,0,17000,1666,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/jo.png,36.0,31.0,JOR,JO,400.0
+51,1586497801726,Réunion,362,0,0,0,40,322,4,404,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/re.png,55.6,-21.1,REU,RE,638.0
+171,1586497801726,Channel Islands,361,0,8,0,40,313,0,2076,46,1157,6655,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/je.png,-2.13,49.21,JEY,JE,832.0
+88,1586497801727,Malta,337,0,2,0,16,319,4,763,5,13732,31100,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mt.png,14.5833,35.8333,MLT,MT,470.0
+44,1586497801727,San Marino,333,0,34,0,49,250,14,9814,1002,846,24933,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sm.png,12.4167,43.7667,SMR,SM,674.0
+196,1586497801727,Bangladesh,330,0,21,0,33,276,1,2,0,6175,37,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bd.png,90.0,24.0,BGD,BD,50.0
+85,1586497801727,Mauritius,314,0,7,0,23,284,3,247,6,6730,5292,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mu.png,57.55,-20.2833,MUS,MU,480.0
+105,1586497801727,Kyrgyzstan,298,18,5,1,35,258,5,46,0,9618,1474,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/kg.png,75.0,41.0,KGZ,KG,417.0
+67,1586497801727,Nigeria,288,0,7,0,51,230,2,1,0,5000,24,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ng.png,8.0,10.0,NGA,NG,566.0
+188,1586497801728,Bolivia,268,4,19,1,2,247,3,23,2,591,51,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bo.png,-65.0,-17.0,BOL,BO,68.0
+63,1586497801728,Palestine,263,0,1,0,44,218,0,52,0,16068,3150,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ps.png,35.25,32.0,PSE,PS,275.0
+4,1586497801728,Vietnam,255,0,0,0,128,127,8,3,0,114241,1174,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/vn.png,106.0,16.0,VNM,VN,704.0
+79,1586497801728,Montenegro,252,0,2,0,4,246,7,401,3,2329,3708,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/me.png,19.0,42.0,MNE,ME,499.0
+41,1586497801728,Senegal,250,0,2,0,123,125,1,15,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sn.png,-14.0,14.0,SEN,SN,686.0
+137,1586497801728,Georgia,218,0,3,0,51,164,6,55,0,3271,820,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ge.png,43.5,42.0,GEO,GE,268.0
+159,1586497801729,DRC,215,35,20,2,13,182,0,2,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cd.png,25.0,0.0,COD,CD,180.0
+128,1586497801729,Guinea,194,0,0,0,11,183,0,15,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gn.png,-10.0,11.0,GIN,GN,324.0
+114,1586497801729,Isle of Man,190,0,1,0,92,97,12,2234,12,1879,22097,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/im.png,-4.55,54.23,IMN,IM,833.0
+29,1586497801729,Sri Lanka,190,0,7,0,49,134,5,9,0,3248,152,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lk.png,81.0,7.0,LKA,LK,144.0
+145,1586497801730,Faroe Islands,184,0,0,0,136,48,0,3766,0,5299,108446,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/fo.png,-7.0,62.0,FRO,FO,234.0
+107,1586497801729,Kenya,184,0,7,0,12,165,2,3,0,5278,98,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ke.png,38.0,1.0,KEN,KE,404.0
+84,1586497801729,Mayotte,184,0,2,0,26,156,4,674,7,1100,4032,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/yt.png,45.1667,-12.8333,MYT,YT,175.0
+5,1586497801730,Venezuela,171,0,9,0,84,78,6,6,0,139282,4898,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ve.png,-66.0,8.0,VEN,VE,862.0
+87,1586497801730,Martinique,154,0,6,0,50,98,19,410,16,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mq.png,-61.0,14.6667,MTQ,MQ,474.0
+130,1586497801730,Guadeloupe,143,0,8,0,67,68,13,357,20,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gp.png,-61.5833,16.25,GLP,GP,312.0
+156,1586497801730,Djibouti,140,0,1,0,28,111,0,142,1,3399,3440,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/dj.png,43.0,11.5,DJI,DJ,262.0
+183,1586497801730,Brunei,135,0,1,0,92,42,3,309,2,8985,20538,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bn.png,114.6667,4.5,BRN,BN,96.0
+60,1586497801730,Paraguay,129,5,6,1,18,105,1,18,0,2262,317,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/py.png,-58.0,-23.0,PRY,PY,600.0
+129,1586497801730,Guatemala,126,31,3,0,17,106,3,7,0,1134,63,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gt.png,-90.25,15.5,GTM,GT,320.0
+134,1586497801731,Gibraltar,123,0,0,0,60,63,1,3651,0,1511,44849,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gi.png,-5.3667,36.1833,GIB,GI,292.0
+178,1586497801731,Cambodia,119,0,0,0,72,47,1,7,0,5768,345,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/kh.png,105.0,13.0,KHM,KH,116.0
+151,1586497801731,El Salvador,117,14,6,0,15,96,3,18,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sv.png,-88.9167,13.8333,SLV,SV,222.0
+52,1586497801731,Rwanda,113,0,0,0,7,106,0,9,0,806,62,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/rw.png,30.0,-2.0,RWA,RW,646.0
+16,1586497801731,Trinidad and Tobago,109,0,8,0,1,100,0,78,6,987,705,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tt.png,-61.0,11.0,TTO,TT,780.0
+93,1586497801731,Madagascar,93,0,0,0,11,82,1,3,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mg.png,47.0,-20.0,MDG,MG,450.0
+81,1586497801731,Monaco,84,0,1,0,5,78,4,2141,25,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mc.png,7.4,43.7333,MCO,MC,492.0
+141,1586497801732,French Guiana,83,0,0,0,43,40,1,278,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gf.png,-53.0,4.0,GUF,GF,254.0
+202,1586497801732,Aruba,82,0,0,0,20,62,0,768,0,1008,9441,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/aw.png,-69.9667,12.5,ABW,AW,533.0
+99,1586497801732,Liechtenstein,78,0,1,0,55,22,0,2046,26,900,23605,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/li.png,9.5333,47.1667,LIE,LI,438.0
+89,1586497801732,Mali,74,0,7,0,22,45,0,4,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ml.png,-4.0,17.0,MLI,ML,466.0
+17,1586497801732,Togo,73,0,3,0,24,46,0,9,0,1747,211,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tg.png,1.1667,8.0,TGO,TG,768.0
+195,1586497801732,Barbados,66,0,3,0,11,52,4,230,10,694,2415,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bb.png,-59.5333,13.1667,BRB,BB,52.0
+111,1586497801732,Jamaica,63,0,4,0,13,46,0,21,1,907,306,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/jm.png,-77.5,18.25,JAM,JM,388.0
+167,1586497801733,Congo,60,0,5,0,5,50,0,11,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cg.png,15.0,-1.0,COG,CG,178.0
+147,1586497801733,Ethiopia,56,0,2,0,4,50,2,0,0,2790,24,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/et.png,38.0,8.0,ETH,ET,231.0
+9,1586497801733,Uganda,53,0,0,0,0,53,0,1,0,3310,72,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ug.png,32.0,1.0,UGA,UG,800.0
+140,1586497801733,French Polynesia,51,0,0,0,0,51,0,182,0,744,2649,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pf.png,-140.0,-15.0,PYF,PF,258.0
+36,1586497801733,Sint Maarten,50,7,8,2,3,39,2,1166,187,134,3125,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sx.png,-63.06,18.02,SXM,SX,534.0
+190,1586497801733,Bermuda,48,0,4,0,25,19,2,771,64,354,5684,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bm.png,-64.75,32.3333,BMU,BM,60.0
+174,1586497801733,Cayman Islands,45,0,1,0,6,38,0,685,15,479,7288,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ky.png,-80.5,19.5,CYM,KY,136.0
+95,1586497801734,Macao,45,0,0,0,10,35,1,69,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mo.png,113.55,22.1667,MAC,MO,446.0
+139,1586497801734,Gabon,44,0,1,0,1,42,0,20,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ga.png,11.75,-1.0,GAB,GA,266.0
+198,1586497801734,Bahamas,41,0,8,0,5,28,1,104,20,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bs.png,-76.0,24.25,BHS,BS,44.0
+1,1586497801734,Zambia,39,0,1,0,24,14,1,2,0,1239,67,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/zm.png,30.0,-15.0,ZMB,ZM,894.0
+126,1586497801734,Guyana,37,0,6,0,8,23,4,47,8,145,184,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gy.png,-59.0,5.0,GUY,GY,328.0
+127,1586497801734,Guinea-Bissau,36,0,0,0,0,36,0,18,0,1500,762,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gw.png,-15.0,12.0,GNB,GW,624.0
+149,1586497801734,Eritrea,33,0,0,0,0,33,0,9,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/er.png,39.0,15.0,ERI,ER,232.0
+47,1586497801734,Saint Martin,32,0,2,0,7,23,6,828,52,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mf.png,-63.03,18.11,MAF,MF,663.0
+101,1586497801735,Liberia,31,0,4,0,3,24,0,6,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lr.png,-9.5,6.5,LBR,LR,430.0
+125,1586497801735,Haiti,30,0,2,0,0,28,0,3,0,257,23,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ht.png,-72.4167,19.0,HTI,HT,332.0
+75,1586497801735,Myanmar,27,4,3,0,2,22,0,0,0,1406,26,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mm.png,98.0,22.0,MMR,MM,104.0
+191,1586497801735,Benin,26,0,1,0,5,20,0,2,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bj.png,2.25,9.5,BEN,BJ,204.0
+20,1586497801735,Tanzania,25,0,1,0,5,19,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tz.png,35.0,-6.0,TZA,TZ,834.0
+100,1586497801735,Libyan Arab Jamahiriya,24,0,1,0,8,15,0,3,0,492,72,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ly.png,17.0,25.0,LBY,LY,434.0
+205,1586497801736,Antigua and Barbuda,19,0,2,0,0,17,1,194,20,40,408,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ag.png,-61.8,17.05,ATG,AG,28.0
+22,1586497801736,Syrian Arab Republic,19,0,2,0,4,13,0,1,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sy.png,38.0,35.0,SYR,SY,760.0
+90,1586497801736,Maldives,19,0,0,0,13,6,0,35,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mv.png,73.0,3.25,MDV,MV,462.0
+207,1586497801735,Angola,19,0,2,0,2,15,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ao.png,18.5,-12.5,AGO,AO,24.0
+71,1586497801736,New Caledonia,18,0,0,0,1,17,0,63,0,2320,8126,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/nc.png,165.5,-21.5,NCL,NC,540.0
+150,1586497801736,Equatorial Guinea,18,0,0,0,3,15,0,13,0,854,609,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gq.png,10.0,2.0,GNQ,GQ,226.0
+76,1586497801736,Mozambique,17,0,0,0,1,16,0,0,0,483,15,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mz.png,35.0,-18.25,MOZ,MZ,508.0
+80,1586497801737,Mongolia,16,0,0,0,4,12,0,5,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mn.png,105.0,46.0,MNG,MN,496.0
+104,1586497801737,Lao People's Democratic Republic,16,0,0,0,0,16,0,2,0,903,124,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/la.png,105.0,18.0,LAO,LA,418.0
+144,1586497801737,Fiji,16,1,0,0,0,16,0,18,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/fj.png,175.0,-18.0,FJI,FJ,242.0
+155,1586497801737,Dominica,16,1,0,0,5,11,0,222,0,309,4293,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/dm.png,-61.3333,15.4167,DMA,DM,212.0
+74,1586497801737,Namibia,16,0,0,0,3,13,0,6,0,362,142,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/na.png,17.0,-22.0,NAM,NA,516.0
+27,1586497801737,Sudan,15,0,2,0,2,11,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sd.png,30.0,15.0,SDN,SD,736.0
+163,1586497801738,Curaçao,14,0,1,0,7,6,0,85,6,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cw.png,-68.97,12.15,CUW,CW,531.0
+48,1586497801738,Saint Lucia,14,0,0,0,1,13,0,76,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/lc.png,-61.1333,13.8833,LCA,LC,662.0
+186,1586497801738,Botswana,13,0,1,0,0,12,0,6,0,1154,491,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bw.png,24.0,-22.0,BWA,BW,72.0
+131,1586497801738,Grenada,12,0,0,0,0,12,2,107,0,45,400,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gd.png,-61.6667,12.1167,GRD,GD,308.0
+45,1586497801738,Saint Vincent and the Grenadines,12,0,0,0,1,11,0,108,0,56,505,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/vc.png,-61.2,13.25,VCT,VC,670.0
+25,1586497801739,Swaziland,12,0,0,0,7,5,0,10,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sz.png,31.5,-26.5,SWZ,SZ,748.0
+33,1586497801738,Somalia,12,0,1,0,1,10,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/so.png,49.0,10.0,SOM,SO,706.0
+0,1586497801739,Zimbabwe,11,0,3,0,0,8,0,0,0,371,25,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/zw.png,30.0,-20.0,ZWE,ZW,716.0
+49,1586497801739,Saint Kitts and Nevis,11,0,0,0,0,11,0,207,0,197,3703,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/kn.png,-62.75,17.3333,KNA,KN,659.0
+132,1586497801739,Greenland,11,0,0,0,11,0,0,194,0,770,13564,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gl.png,-40.0,72.0,GRL,GL,304.0
+39,1586497801739,Seychelles,11,0,0,0,0,11,0,112,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sc.png,55.6667,-4.5833,SYC,SC,690.0
+172,1586497801739,Chad,11,0,0,0,2,9,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/td.png,19.0,15.0,TCD,TD,148.0
+26,1586497801740,Suriname,10,0,1,0,4,5,0,17,2,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sr.png,-56.0,4.0,SUR,SR,740.0
+78,1586497801740,Montserrat,9,0,0,0,0,9,1,1803,0,36,7212,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ms.png,-62.2,16.75,MSR,MS,500.0
+192,1586497801740,Belize,9,0,1,0,0,8,1,23,3,364,915,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bz.png,-88.75,17.25,BLZ,BZ,84.0
+73,1586497801740,Nepal,9,0,0,0,1,8,0,0,0,2895,99,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/np.png,84.0,28.0,NPL,NP,524.0
+96,1586497801740,MS Zaandam,9,0,2,0,0,7,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/unknow.png,0.0,0.0,,,
+13,1586497801741,Turks and Caicos Islands,8,0,1,0,0,7,0,207,26,61,1576,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tc.png,-71.5833,21.75,TCA,TC,796.0
+173,1586497801741,Central African Republic,8,0,0,0,0,8,0,2,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cf.png,21.0,7.0,CAF,CF,140.0
+124,1586497801741,Holy See (Vatican City State),8,0,0,0,2,6,0,9988,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/va.png,12.45,41.9,VAT,VA,336.0
+92,1586497801740,Malawi,8,0,1,0,0,7,1,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mw.png,34.0,-13.5,MWI,MW,454.0
+38,1586497801742,Sierra Leone,7,0,0,0,0,7,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/sl.png,-11.5,8.5,SLE,SL,694.0
+69,1586497801741,Nicaragua,7,0,1,0,0,6,0,1,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ni.png,-85.0,13.0,NIC,NI,558.0
+179,1586497801741,Cabo Verde,7,0,1,0,1,5,0,13,2,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cv.png,-24.0,16.0,CPV,CV,132.0
+86,1586497801741,Mauritania,7,0,1,0,2,4,0,2,0,258,55,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/mr.png,-12.0,20.0,MRT,MR,478.0
+28,1586497801742,St. Barth,6,0,0,0,1,5,0,607,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bl.png,-62.82,17.89,BLM,BL,652.0
+146,1586497801742,Falkland Islands (Malvinas),5,0,0,0,1,4,0,1437,0,137,39368,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/fk.png,-59.0,-51.75,FLK,FK,238.0
+189,1586497801742,Bhutan,5,0,0,0,2,3,0,6,0,1166,1511,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bt.png,90.5,27.5,BTN,BT,64.0
+138,1586497801742,Gambia,4,0,1,0,2,1,0,2,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/gm.png,-16.5667,13.4667,GMB,GM,270.0
+43,1586497801743,Sao Tome and Principe,4,0,0,0,0,4,0,18,0,19,87,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/st.png,7.0,1.0,STP,ST,678.0
+3,1586497801743,Western Sahara,4,0,0,0,0,4,0,7,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/eh.png,-13.0,24.5,ESH,EH,732.0
+31,1586497801744,South Sudan,3,0,0,0,0,3,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ss.png,31.3069,6.8769,SSD,SS,728.0
+206,1586497801743,Anguilla,3,0,0,0,0,3,0,200,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ai.png,-63.1667,18.25,AIA,AI,660.0
+184,1586497801744,British Virgin Islands,3,0,0,0,0,3,0,99,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/vg.png,-64.5,18.5,VGB,VG,92.0
+180,1586497801744,Burundi,3,0,0,0,0,3,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bi.png,30.0,-3.5,BDI,BI,108.0
+61,1586497801744,Papua New Guinea,2,0,0,0,0,2,0,0,0,72,8,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pg.png,147.0,-6.0,PNG,PG,598.0
+18,1586497801744,Timor-Leste,2,1,0,0,1,1,0,2,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tl.png,125.5167,-8.55,TLS,TL,626.0
+175,1586497801744,Caribbean Netherlands,2,0,0,0,0,2,0,76,0,10,381,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/bq.png,-68.26,12.2,BES,BQ,535.0
+46,1586497801745,Saint Pierre Miquelon,1,0,0,0,0,1,0,173,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/pm.png,-56.3333,46.8333,SPM,PM,666.0
+2,1586497801745,Yemen,1,1,0,0,0,1,0,0,0,0,0,https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/ye.png,48.0,15.0,YEM,YE,887.0
